@@ -6,7 +6,6 @@ Arquivos:
 - belem_temperatura_anual.csv — dados anuais
 - belem_temperatura_mensal.csv — dados mensais agregados
 - previsao_2014_2020.csv — extrapolação
-- Relatorio_Modelagem_Estatistica_Belem.pdf — relatório
 - requirements.txt — dependências
 
 Mantenha GlobalLandTemperaturesByCity.csv.zip na mesma pasta do notebook/app.py.
